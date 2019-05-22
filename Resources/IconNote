@@ -1,13 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <note default='true' class='icon' xmlns='http://www.lotus.com/dxl' version='9.0'
- maintenanceversion='1.8' replicaid='4525840200275B72'>
-<noteinfo noteid='11a' unid='CBD07A118D9B4C5A4525840200275B83' sequence='3'>
-<created><datetime>20190522T120953,31+05</datetime></created>
-<modified><datetime>20190522T120953,38+05</datetime></modified>
-<revised><datetime>20190522T120953,37+05</datetime></revised>
-<lastaccessed><datetime>20190522T120953,38+05</datetime></lastaccessed>
-<addedtofile><datetime>20190522T120953,34+05</datetime></addedtofile></noteinfo>
-<updatedby><name>CN=Sohail Ahmed/OU=IT/O=BahriaTown/C=PK</name></updatedby>
+ maintenanceversion='1.8' replicaid='45258402002C30FB'>
+<noteinfo noteid='11a' unid='4931231F6F17A58845258402002C310B' sequence='8'>
+<created><datetime>20190522T130241,39+05</datetime></created>
+<modified><datetime>20190522T130244,18+05</datetime></modified>
+<revised><datetime>20190522T130244,17+05</datetime></revised>
+<lastaccessed><datetime>20190522T130244,18+05</datetime></lastaccessed>
+<addedtofile><datetime>20190522T130241,42+05</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Riaz Ul Hassan/OU=IT/O=BahriaTown/C=PK</name></updatedby>
+<wassignedby><name>CN=Riaz Ul Hassan/OU=IT/O=BahriaTown/C=PK</name></wassignedby>
 <item name='IconBitmap' summary='true'>
 <rawitemdata type='6'>
 AiAgAQAA///////wD///4Af//8AD//4AAH/8AAA/+AAAH/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAA
@@ -25,6 +26,7 @@ AAAAUEECICABAAD/////+A4DgA==
 </rawitemdata></item>
 <item name='$Daos'><text>0</text></item>
 <item name='$LargeSummary'><text>0</text></item>
+<item name='$TITLE'><text>GIT</text></item>
 <item name='$Flags'><text>J</text></item>
-<item name='$TITLE'><text>GIT</text></item></note>
+<item name='$FlagsNoRefresh'><text>rv</text></item></note>
 

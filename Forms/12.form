@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <note class='form' xmlns='http://www.lotus.com/dxl' version='9.0' maintenanceversion='1.8'
- replicaid='4525840200293D35'>
-<noteinfo noteid='19a' unid='094B7C33C275D57745258402002AEA66' sequence='1'>
+ replicaid='45258402002C30FB'>
+<noteinfo noteid='15a' unid='094B7C33C275D57745258402002AEA66' sequence='2'>
 <created><datetime>20190522T124845,18+05</datetime></created>
-<modified><datetime>20190522T124845,30+05</datetime></modified>
-<revised><datetime>20190522T124845,29+05</datetime></revised>
-<lastaccessed><datetime>20190522T124845,30+05</datetime></lastaccessed>
-<addedtofile><datetime>20190522T124845,30+05</datetime></addedtofile></noteinfo>
-<updatedby><name>CN=Sohail Ahmed/OU=IT/O=BahriaTown/C=PK</name></updatedby>
-<wassignedby><name>CN=Sohail Ahmed/OU=IT/O=BahriaTown/C=PK</name></wassignedby>
+<modified><datetime>20190522T130244,06+05</datetime></modified>
+<revised><datetime>20190522T130244,05+05</datetime></revised>
+<lastaccessed><datetime>20190522T130244,06+05</datetime></lastaccessed>
+<addedtofile><datetime>20190522T130244,04+05</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Riaz Ul Hassan/OU=IT/O=BahriaTown/C=PK</name></updatedby>
+<wassignedby><name>CN=Riaz Ul Hassan/OU=IT/O=BahriaTown/C=PK</name></wassignedby>
 <item name='$HTMLCode' sign='true'>
 <rawitemdata type='1'>
 X/8QAAIADwAHAAAAAAAAAA==
